@@ -1,0 +1,179 @@
+.boudy {
+    margin: 0%;
+}
+
+.cajamadre {
+    height: 750px;
+    width: 100%;
+    font-family: 'Arimo', sans-serif;
+    margin: 0%;
+}
+
+.caja1 {
+    width: 100%;
+    height: 8%;
+    display: flex;
+}
+
+.textoHeader {
+    height: 70%;
+    width: 50%;
+    margin: 15px;
+    margin-top: 0%;
+    align-items: center;
+    padding-top: 10px;
+    display: flex;
+    font-size: large;
+}
+
+.textoHeader2 {
+    height: 70%;
+    width: 40%;
+    margin-top: 0%;
+    align-items: center;
+    text-align: right;
+    padding-top: 25px;
+    font-size: 70%;
+}
+
+.circulo {
+    width: 20px;
+    height: 20px;
+    background-color: #7ED957;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+.caja2 {
+    height: 30%;
+}
+
+.img2 {
+    height: 50%;
+    width: 100.5%;
+    background-image: url(2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    font-size: 10px;
+}
+
+.franjaVerde {
+    width: 35%;
+    height: 30px;
+    background-color: #00BF63;
+    position: absolute;
+    margin: 5%;
+    top: 20%;
+    color: white;
+    text-align: center;
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.franjaVerde2 {
+    width: 50%;
+    height: 30px;
+    background-color: #00BF63;
+    position: absolute;
+    top: 30%;
+    margin: 5%;
+    color: white;
+    display: flex;
+    padding-left: 50px;
+    align-items: center;
+}
+
+.franjaVerde3 {
+    width: 50%;
+    height: 30px;
+    background-color: #00BF63;
+    position: absolute;
+    top: 40%;
+    margin: 5%;
+    color: white;
+    display: flex;
+    padding-left: 50px;
+    align-items: center;
+}
+
+.franjanegra {
+    width: 45%;
+    height: 20px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    margin: 5%;
+    top: 60%;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    padding-left: 50px;
+}
+
+#dos {
+    width: 40%;
+    top: 66%;
+}
+
+.caja3 {
+    width: 94%;
+    height: 45%;
+    padding: 3%;
+}
+
+.caja31 {
+    font-size: 70%;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+#texto {
+    margin: 0;
+    text-align: left;
+    width: 100%;
+}
+
+.cajaImagenes {
+    margin-left: 15%;
+    width: 120%;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagenes3 {
+    width: 200px;
+    height: 200px;
+    margin-right: 10%;
+}
+
+
+.caja4 {
+    width: 100%;
+    height: 8%;
+    background-color: #00BF63;
+    display: flex;
+}
+
+.textoFooter {
+    height: 70%;
+    width: 30%;
+    margin: 10px;
+    margin-top: 0%;
+    text-align: center;
+    color: #EEEEEE;
+    padding-top: 20px;
+    font-size: small;
+}
+
+#ancho {
+    width: 50%;
+}

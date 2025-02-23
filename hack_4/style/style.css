@@ -1,0 +1,133 @@
+.cajamadre {
+    height: 100vh;
+    position: relative;
+}
+
+.arreglo {
+    border: 2px solid black;
+    width: 8vh;
+    position: absolute;
+    top: 0;
+    left: 47.5%;
+}
+
+.caja1 {
+    font-family: 'RUDA', sans-serif;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    right: 30%;
+    left: 30%;
+    height: 100vh;
+}
+
+.caja3 {
+    width: 80%;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.caja2 {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    right: 30%;
+    left: 30%;
+}
+
+.franja {
+    margin: 20px;
+    margin-left: 0%;
+    width: 100%;
+    height: 20px;
+    background-color: #FFBD59;
+}
+
+.imagenes {
+    width: 80vh;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 5;
+    display: inline-flex;
+}
+
+.img1 {
+    margin: 3px;
+    height: 32vh;
+    width: 25vh;
+}
+
+.cajaux {
+    height: 20px;
+    width: 80vh;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 5;
+    display: inline-flex;
+    font-family: 'Catamaran', sans-serif;
+    font-weight: bold;
+    font-size: 0.75rem;
+    color: black;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.season {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0px;
+    letter-spacing: 1.5px;
+}
+
+.mostaza {
+    font-weight: bold;
+    letter-spacing: 9px;
+    COLOR: #B88940;
+    font-size: 4rem;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.mostaza2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    letter-spacing: 2px;
+    COLOR: #B88940;
+    font-size: 1.25rem;
+    margin-top: 0px;
+    margin-bottom: 0%;
+}
+
+.off {
+    font-weight: bold;
+    font-size: 1.8rem;
+    letter-spacing: 2.25px;
+    color: black;
+    margin-top: 0%;
+    margin-bottom: 10px;
+}
+
+.negro2 {
+    font-family: 'Catamaran', sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 0.8rem;
+    color: black;
+    margin-top: 0px;
+}
+
+.negro3 {
+    font-family: 'Catamaran', sans-serif;
+    font-weight: bold;
+    font-size: 0.75rem;
+    color: black;
+    margin-top: 0px;
+}
